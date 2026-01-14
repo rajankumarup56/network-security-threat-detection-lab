@@ -1,0 +1,8 @@
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+
+Observation:
+- SSH port is open and should be access restricted
+- HTTP service increases attack surface
+

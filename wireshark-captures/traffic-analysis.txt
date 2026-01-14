@@ -1,0 +1,6 @@
+Traffic Analysis Summary:
+
+- Observed TCP handshake packets
+- Detected repeated SYN requests
+- Possible reconnaissance or scanning activity identified
+

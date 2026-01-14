@@ -1,0 +1,10 @@
+Threat Detection Notes:
+
+- Open ports identified via scanning
+- Repeated traffic patterns observed
+- Network monitoring is essential for early threat detection
+
+Defensive Measures:
+- Restrict SSH access
+- Apply firewall rules
+- Continuous monitoring
