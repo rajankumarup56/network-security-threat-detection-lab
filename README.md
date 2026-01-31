@@ -1,3 +1,7 @@
+> ⚠️ NOTE  
+> This repository represents earlier experimentation and learning.
+> My current production-focused DevOps and AWS projects are pinned on my GitHub profile.
+
 # Network Security & Threat Detection Lab
 
 This project is a hands-on cybersecurity lab focused on analyzing and detecting
